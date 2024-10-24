@@ -47,7 +47,7 @@ class _LoginScreenState extends State<LoginScreen> {
               const SizedBox(height: 30),
               // Welcome Text
               const Text(
-                'Welcome Back!',
+                'WELCOME',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 28,
@@ -160,7 +160,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     child: const Text(
                       'Register',
                       style: TextStyle(
-                        color: Color(0xFF4E7D96),
+                        color: Color.fromARGB(255, 204, 113, 113),
                         fontWeight: FontWeight.bold,
                       ),
                     ),

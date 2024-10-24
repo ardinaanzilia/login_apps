@@ -57,7 +57,7 @@ class HomeScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      'Welcome back,',
+                      'Welcome,',
                       style: TextStyle(
                         color: Colors.white70,
                         fontSize: 16,
@@ -65,7 +65,7 @@ class HomeScreen extends StatelessWidget {
                     ),
                     SizedBox(height: 8),
                     Text(
-                      'Avail', // Ganti dengan nama kalian coy
+                      'Nur Ardina A P',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 24,
