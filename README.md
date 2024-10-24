@@ -1,6 +1,10 @@
 # aplikasi_login
 
-A new Flutter project.
+### NAMA : NUR ARDINA ANZILIA PUTRI
+### NIM : 362358302044
+### KELAS : 2D
+### PRODI : Teknologi Rekayasa Perangkat Lunak
+### UTS Pemrogramman Perangkat Bergerak
 
 ## Getting Started
 
@@ -8,8 +12,8 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![gambar](assets/Screenshot%202024-10-24%20224955.png)
+![gambar](assets/Screenshot%202024-10-24%20225005.png)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
